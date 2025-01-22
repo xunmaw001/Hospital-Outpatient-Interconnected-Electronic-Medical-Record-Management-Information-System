@@ -1,0 +1,2 @@
+# Hospital-Outpatient-Interconnected-Electronic-Medical-Record-Management-Information-System
+基于SSM的医院门诊互联电子病历管理信息系统是一个重要的医疗信息化系统。利用Spring的优势进行组件管理，SpringMVC处理请求和页面渲染，MyBatis负责数据持久化。该系统能实现门诊病历的电子化存储、共享、查询和更新，方便医生快速查看患者病史，提高门诊工作效率，同时支持不同门诊间的病历互联，确保信息的安全和准确，为医院门诊提供高效、便捷的病历管理服务。
